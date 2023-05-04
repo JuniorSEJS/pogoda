@@ -5,18 +5,45 @@ body  {
   max-width: 64px;
   max-height: 320px;
   overflow: hidden;
+  
 
 }
 #id82c10cd26f4e8.wla7{
 max-width: 64px;
+background-color: black;
+}
+#id82c10cd26f4e8.wla7 .wla7__name {
+  font-size: 17px;
+  padding: 0px!important;
+  background-color: black!important;
+}
+#id82c10cd26f4e8.wla7 .wla7__current {
+  padding: 0px!important;
+}
+#id82c10cd26f4e8.wla7 .wla7__currentTemp {
+  font-size: 22px!important;
+}
+#id82c10cd26f4e8.wla7 .wla7__conditions {
+  padding-left: 0px!important;
+  padding-bottom: 10px!important;
+  background-color: black!important;
+}
+#id82c10cd26f4e8.wla7 .wla7__forecast {
+  padding: 0px 0px!important;
+  gap: 15px!important;
+}
+#id82c10cd26f4e8.wla7 .wla7__forecastDate {
+  font-size: 20px;
 }
 .wla7__current {
   font-size: 9px;
 }
 .wla7__forecast {
-  font-size: 10px;
-  
+  font-size: 20px;
 }
-.wla7__forecastItem {
-  
+.wla7__forecastIcon {
+  margin-left: 12px!important;
+}
+svg {
+
 }
