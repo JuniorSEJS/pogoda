@@ -4,12 +4,15 @@ body {
   padding: 0;
 }
 .box {
+  box-sizing: border-box;
     max-width: 64px;
     min-height: 320px;
     background-color: coral;
     font-size: 9px;
     display: flex;
     padding-top: 2px;
+    flex-direction: column;
+    overflow: hidden;
 }
 h3 {
   padding: 0;
