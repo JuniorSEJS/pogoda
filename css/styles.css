@@ -1,24 +1,22 @@
-body {
+body  {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  max-width: 64px;
+  max-height: 320px;
+  overflow: hidden;
+
 }
-.box {
-  box-sizing: border-box;
-    max-width: 64px;
-    min-height: 320px;
-    background-color: coral;
-    font-size: 9px;
-    display: flex;
-    padding-top: 2px;
-    flex-direction: column;
-    overflow: hidden;
+#id82c10cd26f4e8.wla7{
+
 }
-h3 {
-  padding: 0;
-  margin: 0;
-  font-size: 8px;
+.wla7__current {
+  font-size: 9px;
 }
-.temperature {
-  padding-left: 5px;
+.wla7__forecast {
+  font-size: 10px;
+  
+}
+.wla7__forecastItem {
+  
 }
