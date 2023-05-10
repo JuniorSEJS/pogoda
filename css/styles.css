@@ -6,15 +6,14 @@ body  {
   margin-bottom: 0;
   padding: 0;
   max-width: 64px;
-  max-height: 320px;
+  max-height: 352px;
   overflow: hidden;
   margin-left: 24px!important;
-  margin-top: 34px!important;
+  margin-top: 36px!important;
 }
 
 #id82c10cd26f4e8.wla7{
-max-width: 64px;
-
+max-width: 58px!important;
 background-color: #481677;
 }
 #id82c10cd26f4e8.wla7 .wla7__name {
