@@ -20,6 +20,7 @@ console.log(formattedDate);
 const dateEl = document.querySelector(".date")
 console.log(dateEl)
 dateEl.innerHTML = formattedDate;
+console.log("hello world!")
 
 // const meetups = [
 //   { name: "Javascript", isActive: true, members: 100 },
