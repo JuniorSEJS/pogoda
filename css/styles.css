@@ -5,12 +5,13 @@ body  {
   max-width: 64px;
   max-height: 320px;
   overflow: hidden;
-  
-
+  margin-left: 32px;
+  margin-top: 29px;
 }
 
 #id82c10cd26f4e8.wla7{
 max-width: 64px;
+
 background-color: #481677;
 }
 #id82c10cd26f4e8.wla7 .wla7__name {
@@ -36,6 +37,7 @@ background-color: #481677;
 #id82c10cd26f4e8.wla7 .wla7__forecastDate {
   font-size: 20px;
   text-align: center!important;
+  /* display: none; */
 }
 .wla7__current {
   font-size: 9px;
@@ -46,9 +48,7 @@ background-color: #481677;
 .wla7__forecastIcon {
   margin-left: 12px!important;
 }
-svg {
 
-}
 .date{
   position: absolute;
 top: 15px;
