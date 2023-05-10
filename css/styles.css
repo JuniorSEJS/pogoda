@@ -6,8 +6,8 @@ body  {
   margin-bottom: 0;
   padding: 0;
   max-width: 64px;
-  max-height: 352px;
-  overflow: hidden;
+  max-height: 400px;
+  /* overflow: hidden; */
   margin-left: 24px!important;
   margin-top: 32px!important;
 }
