@@ -1,19 +1,15 @@
 body  {
- 
-}
-.box {
   box-sizing: border-box;
-  margin-bottom: 0;
+  margin: 0;
   padding: 0;
   max-width: 64px;
-  max-height: 400px;
-  /* overflow: hidden; */
-  margin-left: 24px!important;
-  margin-top: 32px!important;
+  max-height: 320px;
+  overflow: hidden; 
 }
 
+
 #id82c10cd26f4e8.wla7{
-max-width: 58px!important;
+max-width: 64px!important;
 background-color: #481677;
 }
 #id82c10cd26f4e8.wla7 .wla7__name {
@@ -53,8 +49,8 @@ background-color: #481677;
 
 .date{
   position: absolute;
-top: 49px;
-left: 67px;
+top: 16px;
+left: 36px;
 z-index: 100;
 color: #ffffff;
 font-family:Arial, Helvetica, sans-serif;
